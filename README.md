@@ -3,6 +3,7 @@
 ### 1.資料收集
 60位作者
 14萬筆資料
+[連結](https://www.kaggle.com/datasets/cricketlvl1/tradiontional-chinese-handwrite-v1)
 
 ### 2.模型訓練
 目前在訓練論文的原始模型，以便之後評估
