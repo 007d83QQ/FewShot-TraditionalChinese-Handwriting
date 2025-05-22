@@ -10,4 +10,7 @@
 - style encoder 能力
 - structure encoder 能力
 
+## 5/22
+### outputs.zip已上傳，為訓練三萬batches的原模型的推理結果。
+### 正在嘗試改造模型(style-encoder部分)
 
